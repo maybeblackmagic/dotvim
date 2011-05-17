@@ -1,0 +1,2 @@
+create symbolic links to the vimrc
+ln -s ~/.vim/vimrc ~/.vimrc
